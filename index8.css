@@ -1,0 +1,19 @@
+.box{
+    width: 30vh;
+    height: 20vh;
+    border: 2px solid #000000;
+     /* overflow: auto; */
+     overflow: scroll;
+
+     /* isko ak line ma likhna ka triqa */
+     overflow: hidden auto;
+
+     /* text-overflow: ellipsis; is sa dot dot ajaty ha */
+     text-overflow: ellipsis;
+
+     /* white-space: nowrap; sa srf horizontally scroll hota h */
+     /* white-space: nowrap; */
+
+
+
+}
